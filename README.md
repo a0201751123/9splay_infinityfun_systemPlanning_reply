@@ -1,1 +1,2 @@
 # 9splay_infinityfun_systemPlanning_reply
+下面的functionmap是用Xmind製作，請用Xmind打開它
